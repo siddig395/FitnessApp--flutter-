@@ -14,5 +14,5 @@
 
 ## Technologies Used
 
-- **Flutter**: For structuring and styling the content and making the website visually appealing.
+- **C++**: For structuring and styling the content and making the website visually appealing.
 - **Git**: For version control.
